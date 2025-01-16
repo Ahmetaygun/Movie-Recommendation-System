@@ -7,6 +7,8 @@ User-Based Collaborative Filtering
 
 Content-Based Filtering
 
+Malatya Centrality
+
 Modules:
 
 film_arama.py
