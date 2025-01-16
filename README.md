@@ -1,5 +1,5 @@
 # Movie Recommendation System
-The project was developed using the MovieLens dataset to recommend movies to users based on their viewing histories and the content information of the movies. The film recommendation system employs three different algorithms:
+The project was developed using the MovieLens dataset to recommend movies to users based on their viewing histories and the content information of the movies. The film recommendation system employs four different algorithms:
 
 Cosine Similarity
 
